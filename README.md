@@ -39,12 +39,12 @@
 ## GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryasinha23&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasanjeet0108&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasanjeet0108&theme=tokyonight" height="150">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryasinha23&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasanjeet0108&theme=tokyonight">
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arya-sinha-65b13b293/" target="_blank" rel="noopener">
+  <a href="[https://www.linkedin.com/in/prasanjeet-dutta620/?skipRedirect=true]" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;
-  <a href="https://instagram.com/arya_sinha__" target="_blank" rel="noopener">
+  <a href="https://instagram.com/prasanjeet.dutta0108" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
